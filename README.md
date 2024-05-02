@@ -1,4 +1,4 @@
-# BattleShip_Multiplayer_game
+# BattleShip_Multiplayer_Game
 ## A BattleShip game was created using JetBrains
 The Java version of the classic naval combat game "Battleship" is called Battleship with Java. The game offers a fun two-player tactical experience by adhering to Milton Bradley's original rules. In order to sink all of their opponent's ships before they do, players carefully arrange their fleet of ships on a 10x10 grid and alternately fire at them.
 ## Features
